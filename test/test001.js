@@ -4,7 +4,7 @@ var name = "zhaojian";
 
 describe("Name", function() {
     it("The name should be zhaojian", function() {
-        name.should.eql("zhaojian1");
+        name.should.eql("zhaojian");
     });
 });
 
